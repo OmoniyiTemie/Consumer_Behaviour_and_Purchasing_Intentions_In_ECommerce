@@ -1,7 +1,8 @@
 # PROJECT 1: CONSUMER BEHAVIOUR AND PURCHASING INTENTIONS IN E-COMMERCE
 
 
-## DATASET - [Spotify Revenue, Expenses and Its Premium Users – Quarterly Report (Q4 2016 - Q1 2023)](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/DATASET/Spotify%20Quarterly.csv)
+## DATASET - [Online Shoppers Intention](https://github.com/OmoniyiTemie/Consumer_Behaviour_and_Purchasing_Intentions_In_ECommerce/blob/main/DATASET/online_shoppers_intention.csv)
+   Source - UCI Machine Learning Repository
 
 ------------------------------------------------------------------------------
 
