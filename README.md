@@ -1,4 +1,4 @@
-# PROJECT 1: CONSUMER BEHAVIOUR AND PURCHASING INTENTIONS IN E-COMMERCE
+# PROJECT 2: CONSUMER BEHAVIOUR AND PURCHASING INTENTIONS IN E-COMMERCE
 
 
 ## DATASET - [Online Shoppers Intention](https://github.com/OmoniyiTemie/Consumer_Behaviour_and_Purchasing_Intentions_In_ECommerce/blob/main/DATASET/online_shoppers_intention.csv)
@@ -8,23 +8,25 @@
 
 ### PYTHON CODES
 
-CORRELATION ANALYSIS
-![](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/images/Correlation.PNG)
+DATA PREP
 
-OPERATIONAL COST CONTRIBUTION
-![](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/images/Op_CostContribution_Var_Analysis.PNG)
+![](https://github.com/OmoniyiTemie/Consumer_Behaviour_and_Purchasing_Intentions_In_ECommerce/blob/main/images/Data%20Prep.PNG)
 
-GROSS PROFIT MARGIN DISTRIBUTION
-![](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/images/GPMD.PNG)
+LOGISTIC REGRESSION
 
-VARIANCE INFLATION FACTOR
-![](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/images/VIF%20Analysis.PNG)
+![](https://github.com/OmoniyiTemie/Consumer_Behaviour_and_Purchasing_Intentions_In_ECommerce/blob/main/images/LogReg.PNG)
 
-REGRESSION ANALYSIS
-![](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/images/Regression%20Analysis.PNG)
+FEATURE COEFFICIENTS
 
-OPTIMIZATION USING THE MARGINAL COST AND THE MARGNIAL REVENUE
-![](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/images/OPTIMIZATION.PNG)
+![](https://github.com/OmoniyiTemie/Consumer_Behaviour_and_Purchasing_Intentions_In_ECommerce/blob/main/images/Feature%20Coefficients.PNG)
+
+CLUSTERING - ELBOW METHOD
+
+![](https://github.com/OmoniyiTemie/Consumer_Behaviour_and_Purchasing_Intentions_In_ECommerce/blob/main/images/Clustering.PNG)
+
+CLUSTERING VISUALIZATION
+
+![](https://github.com/OmoniyiTemie/Consumer_Behaviour_and_Purchasing_Intentions_In_ECommerce/blob/main/images/ClustersViz.PNG)
 
 -------------------------------------------------------------------------------
 
@@ -32,29 +34,21 @@ OPTIMIZATION USING THE MARGINAL COST AND THE MARGNIAL REVENUE
 
 ### VISUALIZATIONS
 
-OPERATIONAL COST CONTRIBUTION %
-![](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/Tableau/OCC%25.PNG)
+FEATURE COEFFICIENTS
 
-FEATURE IMPORTANCE
-![](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/Tableau/Feature%20Importance%20on%20Efficiency%20Score.png)
+![](https://github.com/OmoniyiTemie/Consumer_Behaviour_and_Purchasing_Intentions_In_ECommerce/blob/main/Visualizations/Online_Shoppers_Feature%20Coeff.png)
 
-GROSS PROFIT MARGIN ANALYSIS
-![](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/Tableau/GPMA.PNG)
+ELBOW METHOD
 
-OPTIMIZATION MARGINAL REVENUE AND MARGINAL COST
+![](https://github.com/OmoniyiTemie/Consumer_Behaviour_and_Purchasing_Intentions_In_ECommerce/blob/main/Visualizations/Online_Shoppers_Elbow%20Mthd.png)
 
-![](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/Tableau/MR%20vs%20MC.png)
+CLUSTERS
 
-OUTCOME TRACKING DASHBOARD
-![](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/Tableau/Outcome%20Tracking.PNG)
-
-
-
-
+![](https://github.com/OmoniyiTemie/Consumer_Behaviour_and_Purchasing_Intentions_In_ECommerce/blob/main/Visualizations/Online_Shoppers_Clusters.png)
 
 
 
 ------------------------------------------------------------------------------------------------------------------------
-Open presentation (pptx) for better insights - Click [here](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/PPTX/SPOTIFY_COST_EFFICIENCY_AND_PROFITABILITY_OPTIMIZATION%20(1).pdf)
+Open presentation (pptx) for better insights - Click [here](https://github.com/OmoniyiTemie/Consumer_Behaviour_and_Purchasing_Intentions_In_ECommerce/blob/main/PPTX/Consumer_Behavior_and_Purchasing_Intentions_in_E-Commerce.pdf)
 
 
