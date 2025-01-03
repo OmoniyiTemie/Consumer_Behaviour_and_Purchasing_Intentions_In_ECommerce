@@ -5,26 +5,53 @@
    Source - UCI Machine Learning Repository
 
 ------------------------------------------------------------------------------
+Carried out Supervised and Unsupervised learning on the dataset based on two research questions:
 
-### PYTHON CODES
+### Supervised
+**RQ** - *What factors influence a shopper's likelihood to make a purchase?*
 
-DATA PREP
+**Motivation** - *Improve marketing strategies and user experience to boost conversion rates*
+
+### Unsupervised
+**RQ** - *Can we identify distinct groups of shoppers based on their browsing behavior?*
+
+**Motivation** - *Enable customer segmentation for personalized recommendations and better resource allocation*
+
+
+-------------------------------------------
+
+
+## PYTHON CODES
+
+**DATA PREP** 
+
+*Checking for Null Values AND Transforming the "Weekend" and "Revenue" features to Bool for easier processing*
 
 ![](https://github.com/OmoniyiTemie/Consumer_Behaviour_and_Purchasing_Intentions_In_ECommerce/blob/main/images/Data%20Prep.PNG)
 
-LOGISTIC REGRESSION
+**LOGISTIC REGRESSION**
+
+*Using Logistic Regression, as the target variable is Revenue with possible values 'T' or 'F'*
 
 ![](https://github.com/OmoniyiTemie/Consumer_Behaviour_and_Purchasing_Intentions_In_ECommerce/blob/main/images/LogReg.PNG)
 
-FEATURE COEFFICIENTS
+**FEATURE COEFFICIENTS**
+
+*Plot showing the significant predictors*
 
 ![](https://github.com/OmoniyiTemie/Consumer_Behaviour_and_Purchasing_Intentions_In_ECommerce/blob/main/images/Feature%20Coefficients.PNG)
 
+
 CLUSTERING - ELBOW METHOD
+
+*Showing the recommended number of optimal clusters*
 
 ![](https://github.com/OmoniyiTemie/Consumer_Behaviour_and_Purchasing_Intentions_In_ECommerce/blob/main/images/Clustering.PNG)
 
+
 CLUSTERING VISUALIZATION
+
+After PCA, the loadings show that the y-axis depicts website engagement and the x-axis purchasing power/intention. The clusters are then visualized
 
 ![](https://github.com/OmoniyiTemie/Consumer_Behaviour_and_Purchasing_Intentions_In_ECommerce/blob/main/images/ClustersViz.PNG)
 
